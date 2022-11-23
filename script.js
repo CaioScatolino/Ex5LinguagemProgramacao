@@ -31,6 +31,15 @@ function desafio2 () {
     }
     document.getElementById('desafio2').innerHTML = `Resultado: <b>${desafio2Array.join(' ')}</b>`
 
+}
+
+function desafio3 () {
+    let desafio3Frase = document.getElementById('frase').value
+
+    let desafio3Array = []
+    desafio3Array.push(desafio3Frase.split(''))
+
+    document.getElementById('desafio3').innerHTML = `Resultado: <b>${desafio3Array}</b> <br>Quantidade de Caracteres: <b>${desafio3Array.join(',').length}</b> </b>`
 
 
 }

@@ -1,0 +1,5 @@
+[4.0 pontos] Crie uma função javascript que obtenha 5 (cinco) letras ou números em qualquer ordem (utilize 5 inputs HTML para receber os dados) e exiba estes valores em ordem decrescente em uma tag <p> separados por ' - ' (traços).
+[4.0 pontos] Crie uma função javascript que obtenha a quantidade de itens de um array, preencha ele com números sequenciais e exiba seu conteúdo em uma tag <p> separados por '  ' (espaços). Sugestão, utilize um laço for. (lembre-se os dados precisam estar em um array).
+[4.0 pontos] Crie uma função javascript que obtenha uma frase qualquer, converta esta frase em um vetor de caracteres (cada caractere da frase será um item do vetor) e apresente:
+O conteúdo do vetor em uma tag <p> separados por ' , ' (vírgulas);
+O tamanho do vetor (quantidade de itens do vetor);
